@@ -20,7 +20,7 @@ I used 1 input features and 2 hidden layers
 •	hidden_nodes_layer2 = 30
 •	Increasing the number of hidden layers to include a 3rd
 •	Changing the activation functions: tried linear, tanh, sigmoid for a combination of hidden layers and output layer
-Summary: I was unable to achieve the target model performances. I am able to reach 66.7% accuracy. The target accuracy was not achieved despite trying other methods to improve the performance. Perhaps having more datasets and features will help
+Summary: I was unable to achieve the target model performances. I am able to reach 66.7% accuracy. The target accuracy was not achieved despite trying other methods to improve the performance. Perhaps having more datasets and features will help.
 
 
 
